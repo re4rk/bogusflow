@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "obfuscator",
+			"path": "../../obfuscator"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../bogusflow"
+		}
+	],
+	"settings": {}
+}
